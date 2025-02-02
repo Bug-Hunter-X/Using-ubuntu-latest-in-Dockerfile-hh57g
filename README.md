@@ -1,0 +1,1 @@
+This repository contains a Dockerfile that uses the ubuntu:latest image and a solution that uses a specific version of Ubuntu to build a more robust and reproducible image. Using `ubuntu:latest` can lead to unexpected behavior due to image changes. The solution demonstrates best practices for specifying the base image version, ensuring consistent builds and deployments.
